@@ -32,6 +32,6 @@ TODO — unit, widget and integration test instructions
 
 ## Related repositories
 
-* roamly-backend
-* roamly-ios
-* roamly-android
+* [roamly-backend](https://github.com/Tahani50/roamly-backend) — Backend API and data layer
+* [roamly-ios](https://github.com/Tahani50/roamly-ios) — Native iOS app built with Swift / SwiftUI
+* [roamly-android](https://github.com/Tahani50/roamly-android) — Native Android app built with Kotlin / Jetpack Compose
